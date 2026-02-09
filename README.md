@@ -3,7 +3,7 @@
 # Daily Notes
 - [2026/2/7] 泰坦尼克号项目；Jupyter Notebook与Git相关配置
 - [2026/2/8] 外出游戏，未学习
-- [2026/2/9] 泰坦尼克号项目总结笔记
+- [2026/2/9] 泰坦尼克号项目总结笔记；房价预测项目：random forest and gradient boosting
 
 # 预期学习项目
 - https://chat.deepseek.com/share/5o88u7cr9axu28wjy1
